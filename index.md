@@ -1,6 +1,6 @@
 <h2>Sobre o aplicativo Petfynder</h2>
-<h4>O Petfynder é um aplicativo que te fornece o serviço de publicação de perfis de pets que estão
-perdidos ou que foram encontrados, com a finalidade de reunir novamente estes pets à suas famílias.</h4>
+<h1>O Petfynder é um aplicativo que te fornece o serviço de publicação de perfis de pets que estão
+perdidos ou que foram encontrados, com a finalidade de reunir novamente estes pets à suas famílias.</h1>
 <ul>
 <li>Através da aba lateral você terá acesso a todos os recursos relacionados aos perfis de pets e à aplicação em si.</li>
 <li>Ao acessar o link de sua conta você terá acesso aos perfis de pets que você cadastrou, sejam eles perdidos ou</li>
@@ -28,7 +28,7 @@ do pet cadastrado.</li>
 Todos os seus pets favoritos estarão lá, perdidos ou encontrados.</li>
 <li>Ao marcar um pet como resgatado o perfil dele não aparecerá mais nas buscas, essa opção não tem retorno,
 certifique-se de que realmente tem certeza desta opção.</li>
-<li>Caso tenha reclamações ou solicitações de melhorias, entrar em contato através do email petfynder.adm@gmail.com.
-<li><strong>Ao utilizar este aplicativo você está ajudando a reunir os pets às suas famílias.
-Continue sendo essa pessoa que torna este mundo um lugar melhor.</strong></li>
 </ul>
+<li>Caso tenha reclamações ou solicitações de melhorias, entrar em contato através do email petfynder.adm@gmail.com.
+<strong>Ao utilizar este aplicativo você está ajudando a reunir os pets às suas famílias.
+Continue sendo essa pessoa que torna este mundo um lugar melhor.</strong>
