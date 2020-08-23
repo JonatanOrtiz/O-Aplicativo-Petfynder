@@ -28,7 +28,7 @@ do pet cadastrado.</li>
 Todos os seus pets favoritos estarão lá, perdidos ou encontrados.</li>
 <li>Ao marcar um pet como resgatado o perfil dele não aparecerá mais nas buscas, essa opção não tem retorno,
 certifique-se de que realmente tem certeza desta opção.</li>
+<li>Caso tenha reclamações ou solicitações de melhorias, entrar em contato através do email petfynder.adm@gmail.com.</li>
 </ul>
-<li>Caso tenha reclamações ou solicitações de melhorias, entrar em contato através do email petfynder.adm@gmail.com.
 <strong>Ao utilizar este aplicativo você está ajudando a reunir os pets às suas famílias.
 Continue sendo essa pessoa que torna este mundo um lugar melhor.</strong>
