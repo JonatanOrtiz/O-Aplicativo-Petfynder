@@ -30,5 +30,14 @@ Todos os seus pets favoritos estarão lá, perdidos ou encontrados.</li>
 certifique-se de que realmente tem certeza desta opção.</li>
 <li>Caso tenha reclamações ou solicitações de melhorias, entrar em contato através do email petfynder.adm@gmail.com.</li>
 </ul>
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/icone-gratis/clinica-de-cuidado-de-animais-domesticos_2138410" title="photo3idea_studio">photo3idea_studio</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/icone-gratis/coracao_1216686" title="itim2101">itim2101</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/gregor-cresnar" title="Gregor Cresnar">Gregor Cresnar</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/inipagistudio" title="inipagistudio">inipagistudio</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/dmitri13" title="dmitri13">dmitri13</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
 <strong>Ao utilizar este aplicativo você está ajudando a reunir os pets às suas famílias.
 Continue sendo essa pessoa que torna este mundo um lugar melhor.</strong>
